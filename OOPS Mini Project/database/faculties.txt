@@ -1,0 +1,6 @@
+1001, FShaun Allan, 06-05-2005, T Nagar, CSE, DPSD-OOPS
+1002, FSeetharam, 05-04-2004, SSN College, CSE, DSA-OOPS-DPSD
+1003, FSharanraj, 12-12-2012, Velachery, IT, DSA-Python-OOPS
+1004, Saraswathi, 10-10-1990, T Nagar, CSE, DPSD
+1005, Shahul Hamead, 9-9-1990, Velachery, CSE, IoT
+1006, Dhannya, 11-11-1999, Kolathur, CSE, OOPS
